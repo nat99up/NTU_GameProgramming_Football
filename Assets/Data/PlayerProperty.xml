@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+     
+        <player id="Player_B1">
+            <team>1</team>
+            <speed>6</speed>
+            <passAccuracy>10</passAccuracy>
+            <strength>1.5</strength>
+            <nimbusNumber>4</nimbusNumber>
+        </player>
+        <player id="Player_B2">
+            <team>1</team>
+            <speed>6</speed>
+            <passAccuracy>1</passAccuracy>
+            <strength>2</strength>
+            <nimbusNumber>2</nimbusNumber>
+        </player>
+        <player id="Player_B3">
+            <team>1</team>
+            <speed>7</speed>
+            <passAccuracy>18</passAccuracy>
+            <strength>1</strength>
+            <nimbusNumber>5</nimbusNumber>
+        </player>
+        <player id="Player_B4">
+            <team>1</team>
+            <speed>7</speed>
+            <passAccuracy>1</passAccuracy>
+            <strength>2</strength>
+            <nimbusNumber>4</nimbusNumber>
+        </player>
+        <player id="Player_O1">
+            <team>2</team>
+            <speed>8</speed>
+            <passAccuracy>1</passAccuracy>
+            <strength>2</strength>
+            <nimbusNumber>3</nimbusNumber>
+        </player>
+        <player id="Player_O2">
+            <team>2</team>
+            <speed>7.5</speed>
+            <passAccuracy>1</passAccuracy>
+            <strength>2</strength>
+            <nimbusNumber>2</nimbusNumber>
+        </player>
+        <player id="Player_O3">
+            <team>2</team>
+            <speed>8</speed>
+            <passAccuracy>1</passAccuracy>
+            <strength>1.5</strength>
+            <nimbusNumber>3</nimbusNumber>
+        </player>
+        <player id="Player_O4">
+            <team>2</team>
+            <speed>8.5</speed>
+            <passAccuracy>1</passAccuracy>
+            <strength>1.5</strength>
+            <nimbusNumber>1</nimbusNumber>
+        </player>
+    
+</root>
